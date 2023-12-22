@@ -8,3 +8,6 @@ The x training data was too big, so I uploaded it via google drive. Here's the l
 https://drive.google.com/drive/folders/1awC1WagNiPJMdXWT7Ug27MoTO92JTWNU?usp=drive_link
 
 Various npy files in the folder, the number represents the selected timelag, and log Nor detrend respectively indicates that this set of data has been log, standardized and detrend processing
+
+The contents of loading data in jupyterhub, building LSTM model, training and forecasting are in file 2023_11_24Final_Project.ipynb
+
